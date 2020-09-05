@@ -7,3 +7,4 @@
 ### 영상 처리 관련
   1. 이미지의 위치 변동을 FFT로 변환 후 phase correlation을 통해 판단하자
   2. motion estimation(Dual ME)을 통한 frame interpolation
+  3. 도로 영역 찾기
