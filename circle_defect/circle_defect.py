@@ -26,7 +26,7 @@ def circle_stats(img):
 
 
 
-img  = cv2.imread('sample_image2.png', cv2.IMREAD_GRAYSCALE)
+img  = cv2.imread('input_img/sample_image2.png', cv2.IMREAD_GRAYSCALE)
 h,w = img.shape
 mask_circle = np.zeros_like(img, np.uint8)
 mask_defect = np.zeros((h,w,3), np.uint8)
