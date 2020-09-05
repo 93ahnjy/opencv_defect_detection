@@ -1,4 +1,4 @@
-# opencv_various
+# opencv_various_projects
 
 ### cv2 파이선으로 만들어본 detect 위치 찾는 문제
   1. 물방울들의 위치 및 개수 찾는 문제
