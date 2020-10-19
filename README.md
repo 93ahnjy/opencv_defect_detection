@@ -8,3 +8,6 @@
   1. 이미지의 위치 변동을 FFT로 변환 후 phase correlation을 통해 판단하자
   2. motion estimation(Dual ME)을 통한 frame interpolation
   3. 도로 영역 찾기
+
+### 도형그리기
+  1. 일정한 규칙을 나타내는 패턴을 선 하나로 그리기
