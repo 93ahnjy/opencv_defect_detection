@@ -25,15 +25,6 @@ def init_triangle(length, center):
 
 
 
-
-
-
-
-
-
-
-
-
 def Rotated_points(points, degree, scale, center):
     x_cen, y_cen = center
 
@@ -68,9 +59,6 @@ if __name__ == '__main__':
 
     img = np.zeros((512, 512))
     points = init_triangle(100, (256, 256))
-
-
-
 
     all_points = []
     all_points += points
